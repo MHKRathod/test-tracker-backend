@@ -109,6 +109,9 @@ middleware/
 server.js
 ```
 
+## Submission Note
+This project was developed as part of a backend assignment.
+
 ## Author
 
 Hari Krishna Rathod
